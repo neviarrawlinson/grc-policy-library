@@ -33,7 +33,6 @@ Every template in this library is:
 
 ## Coming Soon
 
-- Incident Response Policy
 - Vendor Management Policy
 - Data Classification Policy
 - Remote Work Security Policy
